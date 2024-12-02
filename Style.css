@@ -1,0 +1,20 @@
+#section1{
+    background-color: azure;
+width: 50%;
+height: 955PX
+}
+#section2{
+    background-color: azure;
+width: 50%;
+position: absolute;
+left: 50%;
+height: 955PX;
+top:9PX
+}
+h3{
+    text-align: center;
+    border: solid;
+    border-radius: ;
+    background-color: beige;
+    height: 46PX;
+}
